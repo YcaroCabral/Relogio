@@ -19,8 +19,8 @@ div{
 
 }
 footer{
-    background: aqua;
-    text-align: center;
+        padding: 1em;
+        text-align: center;
 }
 img{
         border-radius: 50%;
